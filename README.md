@@ -6,8 +6,13 @@ The goal of this Project is to prepare tidy data that can be used for later anal
 
 # Data Source
 
-The dataset used is from: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
-and available in https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+The dataset used is from:
+
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+and available in 
+
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 The dataset includes the following files:
 
