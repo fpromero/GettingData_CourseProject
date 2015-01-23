@@ -21,9 +21,14 @@ The dataset includes the following files:
 - 'test/y_test.txt': Test labels.
 -  'train/subject_train.txt': Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 
-# Code
+# Files
 
-run_analysis.R contains all the code to perform the analyses in the five included in the Course Project requirements.
-This code need the files explained below are present in the folder "data", un-compressed and without names altered.
+Readme.md is this file
+
+run_analysis.R contains all the code to perform the analyses in the five steps included in the Course Project requirements. This code need that the files explained below, without names altered,are present in the folder "data".
 
 CodeBook.md describes the variables, the data, and any transformations or work that was performed to clean up the data.
+
+results_tidy.txt tab-delimited file which contains the means of all the columns per test subject and per activity. 
+
+
